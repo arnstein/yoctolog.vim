@@ -5,7 +5,7 @@ Here's some syntax highlighting for those of us who are (un?)fortunate enough to
 With vim 8.0 or later you can simply put the yoctolog folder in ~/.vim/pack/bundle/start/ and it should work!
 
 
-###[Vundle][]
+### [Vundle][]
 
 [Vundle]: https://github.com/VundleVim/Vundle.vim
 
